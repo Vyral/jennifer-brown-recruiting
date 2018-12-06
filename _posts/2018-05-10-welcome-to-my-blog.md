@@ -18,8 +18,6 @@ tags:
   - Reviews and Referrals
 ---
 
-&nbsp;
-
 If you are thinking about becoming involved in real estate professionally, we are looking to expand our Keller Williams Realty Whittier team.
 
 I have been working in real estate for 27 years, and want to help others who have an interest in this field, become a part of it too.
