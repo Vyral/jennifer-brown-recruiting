@@ -22,7 +22,7 @@ If you're thinking about becoming involved in real estate professionally, we are
 
 I have been working in real estate for 27 years, and I want to help others who have an interest in this field, become part of it too.
 
-So, I’ll be posting two monthly videos on this blog to inform you and keep you updated on the market.
+So, I’ll be posting two monthly videos on this blog to inform you and keep you updated on the market in Whittier, as well as tips and tools to help you join real estate professionally .
 
 They will be valuable to you and give you information on how you can advance your career in real estate.
 
