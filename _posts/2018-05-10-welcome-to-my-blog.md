@@ -1,28 +1,23 @@
 ---
 youtube_code:
-excerpt:
+excerpt: >-
+  Learn how our tips, tools, and insight into the market can help you advance
+  your career in real estate!
 enclosure:
 pullquote:
-enclosure_type: video/mp4
+enclosure_type:
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /img/cover.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/bigstock-home-sweet-home-welcome-mat-m-235686472.jpg
 layout: post
-title: this is a test post
-date: 2018-05-10
+title: Welcome To My Blog!
+date: 2018-05-10 00:00:00
 tags:
-- Buyer Prospects
-- Transaction Management
-- Reviews and Referrals 
-excerpt: 'Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.'
-enclosure:
-pullquote: This is an example of a pull quote
-enclosure_type: video/mp4
-enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code: SFFy_drFrZs
+  - Buyer Prospects
+  - Transaction Management
+  - Reviews and Referrals
 ---
+
 {% include youtube.html %}
 
 Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps **gastropub marfa r**etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
