@@ -43,4 +43,4 @@ This happened because agents who fit the third archetype, the realists, looked t
 
 Now that we’re on the cusp of another shift, **I’d like to offer you a free copy of “Shift” so that you can read more about the ideas I touched on today.**
 
-If you have any other questions, would like more information, or would like to request your free copy of “Shift,” feel free to give us a call or send us an email. We look forward to hearing from you soon
+If you have any other questions, would like more information, or would like to request your free copy of “Shift,” feel free to give us a call or send us an email. We look forward to hearing from you soon.
