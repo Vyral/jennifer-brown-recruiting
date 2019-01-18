@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Survive (and Thrive) During a Shifting Market
-date: 2019-01-03 18:01:31
+date: 2019-01-17 18:01:00
 tags:
   - Transaction Management
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: GMZZcN0DS8M
+youtube_code: l90JoQ_gFwE
 ---
 
 {% include youtube.html %}
@@ -44,5 +44,3 @@ This happened because agents who fit the third archetype, the realists, looked t
 Now that we’re on the cusp of another shift, **I’d like to offer you a free copy of “Shift” so that you can read more about the ideas I touched on today.**
 
 If you have any other questions, would like more information, or would like to request your free copy of “Shift,” feel free to give us a call or send us an email. We look forward to hearing from you soon
-
-&nbsp;
