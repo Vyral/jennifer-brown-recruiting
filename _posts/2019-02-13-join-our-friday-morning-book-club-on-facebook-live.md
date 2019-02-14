@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Join Our Friday Morning Book Club on Facebook Live
-date: 2019-02-14 16:59:08
+date: 2019-02-13 16:59:00
 tags:
   - Reviews and Referrals
 excerpt: >-
