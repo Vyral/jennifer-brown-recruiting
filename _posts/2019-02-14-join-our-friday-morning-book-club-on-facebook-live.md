@@ -1,16 +1,19 @@
 ---
 layout: post
 title: Join Our Friday Morning Book Club on Facebook Live
-date:
+date: 2019-02-14 16:59:08
 tags:
-excerpt:
+  - Reviews and Referrals
+excerpt: >-
+  “The Millionaire Real Estate Agent” is the foundation of thousands of
+  successful real estate businesses. Here’s why.
 enclosure:
-pullquote:
+pullquote: Join us Friday mornings on our Facebook page to discuss the book.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: AaRD4IfrLB8
 ---
 
 {% include youtube.html %}
@@ -32,5 +35,3 @@ Today I want to talk about our upcoming Facebook MREA Book Club Live. MREA stand
 **So join us every Friday morning on our Facebook page where we will go live to talk about all of this information in greater detail.**
 
 If you have any questions from us in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
