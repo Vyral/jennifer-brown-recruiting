@@ -23,11 +23,8 @@ Today I want to talk about our upcoming Facebook MREA Book Club Live. MREA stand
 **Within the book, there are four different models that help you get there:**
 
 1. **The economic model.** This one focuses on the numbers—tracking them, what it takes to earn money, and more.
-
 2. **The lead generation model.** This is also about numbers, but not dollars and cents. It’s about prospecting numbers, marketing numbers, etc. It’s all great information.
-
 3. **The budget model.** This is the one that none of us want to look at because it gets into the minutiae of expenses, finance, and more. However, Gary really puts things in an understandable way.
-
 4. **The organizational model.** This model is for growing businesses. It teaches people how to build a team and goes into detail with an organizational chart, job descriptions, and more.
 
 {% include pullquote.html %}
