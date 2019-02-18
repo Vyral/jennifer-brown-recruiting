@@ -29,6 +29,6 @@ Today I want to talk about our upcoming Facebook MREA Book Club Live. MREA stand
 
 {% include pullquote.html %}
 
-**So join us every Friday morning on [our Facebook page](https://www.facebook.com/pg/jenbrownrealestate){: target="_blank"} where we will go live to talk about all of this information in greater detail.**
+**So join us every Friday morning at 9 a.m. on [our Facebook page](https://www.facebook.com/KWWhittier){: target="_blank"} where we will go live to talk about all of this information in greater detail.**
 
 If you have any questions from us in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
