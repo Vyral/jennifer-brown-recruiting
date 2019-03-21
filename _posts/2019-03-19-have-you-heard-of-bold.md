@@ -20,7 +20,7 @@ youtube_code: eXZvxPa1zMA
 
 &nbsp;
 
-Today I have a little information to share with you about an awesome program that Keller Williams offers. **BOLD is an agent training program that helps you with managing time, money, mindset, and foundational skills. It’s an amazing learning experience.**
+Today I have a little information to share with you about an awesome program that Keller Williams offers. **[BOLD is an agent training program](https://www.youtube.com/watch?v=gWK3Y6tLO8g){: target="_blank"} that helps you with managing time, money, mindset, and foundational skills. It’s an amazing learning experience. Next KW Bold Training starts on April 8, 2019.&nbsp;**
 
 If you could take approximately seven to eight listings in the next seven weeks, would that be something that would interest you? I would think so. **By studying BOLD, you will learn how to manage your time, earn more money, create the amazing mindset you need in order to function in your business, and the foundational skills that will help you get there.**
 
