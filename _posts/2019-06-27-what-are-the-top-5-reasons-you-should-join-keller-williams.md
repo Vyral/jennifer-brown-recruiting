@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are the Top 5 Reasons You Should Join Keller Williams?
-date: 2019-06-27 20:04:42
+date: 2019-06-27 20:04:00
 tags:
   - Reviews and Referrals
 excerpt: >-
@@ -37,6 +37,6 @@ Here are the five reasons you should join Keller Williams:
 * Leverage—This will teach you how to hire support to help grow your business
 * Events—You’ll be able to interact with many other high-producing agents
 
-From top to bottom, KW is a company of giving, so if you’d like to know more about what joining us can do for you, don’t hesitate to reach out to me. I’d be happy to speak with you.&nbsp;
+From top to bottom, KW is a company of giving. If you’d like to know more about what joining us can do for you, don’t hesitate to reach out to me. I’d be happy to speak with you.&nbsp;
 
 &nbsp;
